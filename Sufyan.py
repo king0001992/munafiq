@@ -1,5 +1,5 @@
 #SC SEND BY SUFYAN 
-# TELIGERM : BLACK HATH HACKERS
+# FACEBOOK : BLACK HATH HACKERS
 #──────────────{ IMPORT }──────────────#
 import os,bs4,json,sys,time,random,re,subprocess,platform,struct,string,uuid,requests,httpx,re
 from bs4 import BeautifulSoup
@@ -796,4 +796,5 @@ def __GMAILX__(username,pswrd,total):
     except exceptions:
         pass
 #──────────────{ END }──────────────#
+
 menu()
